@@ -140,6 +140,7 @@ const Footer = () => {
                             type="email"
                             className="form-control"
                             placeholder="Email Address"
+style={{color:"white"}}
                           />
                           <button type="submit">
                             <SendIcon />
